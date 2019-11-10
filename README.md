@@ -1,2 +1,2 @@
 # dnts
-Python library for Domain Names, Things, &amp; Stuff
+_Python library for Domain Names, Tools, &amp; Services_
